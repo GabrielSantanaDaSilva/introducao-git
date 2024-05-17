@@ -1,1 +1,9 @@
-ola
+git init para iniciar
+
+git remote add origin "link do github"
+
+git add .
+
+git commit -m "Comentario" 
+
+git push -u origin main
